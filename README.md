@@ -39,7 +39,7 @@
 
 </div>
 <br>
-
+<br>
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simex05/simex05/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simex05/simex05/pacman-output/pacman-contribution-graph.svg?game=pacman">
@@ -47,7 +47,7 @@
 </picture>
 
 <br>
-
+<br>
 ## 💖 Support
 <div align="center">
 
